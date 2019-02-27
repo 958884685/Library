@@ -60,7 +60,7 @@
 			href="/Library/book?msg=findBookPage&currentPage=${bookPageResult.currentPage}">书籍管理</a></li>
 		<li class="active">添加书籍</li>
 		<li><span class="glyphicon glyphicon-flag"></span><a
-			href="/Library/cmd?msg=adduser">添加读者</a></li>
+			href="/Library/cmd?msg=addreader">添加读者</a></li>
 		<li><span style="color: red;"> ${bookErrorMsg}</span></li>
 	</ul>
 	<div id="ab_main">

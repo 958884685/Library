@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+#head_img {
+	background-image: url(../images/202.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 150px;
+}
+
+#head_name {
+	color: red;
+	font-size: 25px;
+	margin-left: 20px;
+}

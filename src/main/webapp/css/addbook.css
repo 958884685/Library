@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+/* 主体剧中 */
+#ab_main {
+	text-align: center;
+	margin: 0 auto;
+}
+
+#ab_main select {
+	width: 223px;
+}
+
+/* 主体字体 */
+#ab_main p {
+	font-size: 18px;
+}
+
+/* 提交按钮 */
+#ab_sub {
+	width: 248px;
+	height: 44px;
+	background-color: #80ffff;
+}
+/* 重置按钮 */
+#ab_reset {
+	width: 77px;
+	height: 44px;
+	background-color: #80ffff;
+}

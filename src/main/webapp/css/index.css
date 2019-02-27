@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+#main_find {
+	display: inline-block;
+	margin: 5% 0 auto 30%;
+}
+
+/*搜索框定宽  */
+#main_find .form-control {
+	width: 400px;
+}

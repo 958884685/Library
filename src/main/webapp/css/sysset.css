@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+#sysset_main {
+	text-align: center;
+	margin: 0 auto;
+}
+
+#sysset_main span {
+	display: inline-block;
+	width: 120px;
+	margin-right: 20px;
+	display: inline-block;
+}
+
+#sys_sub input {
+	height: 40px;
+	width: 320px;
+	background-color: #80ffff;
+}
+
+#sys_reset input {
+	height: 40px;
+	width: 320px;
+	background-color: #80ffff;
+}

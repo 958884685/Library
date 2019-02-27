@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+#reader_main {
+	text-align: center;
+}
+
+#reader_main table {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#reader_main table td, th {
+	height: 30px;
+}
